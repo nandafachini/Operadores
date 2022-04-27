@@ -61,7 +61,7 @@ public class Main {
         float f = 3.5f;
         double d = f;
 
-        // para mostrar que o d recebe o valor de d
+        // para mostrar que o d recebe o valor de f
         System.out.println("d: " + d);
 
         // atribuicoes compostas
