@@ -30,10 +30,6 @@ c = a - b; :arrow_right: aqui o simbolo (-) está atuando sobre dois operandos (
 
 
 
-![agreed-gretchen](/Users/mariafernandafachini/Documents/Projetos/agreed-gretchen.gif)
-
-
-
 #### Achou que tinha acabado, né?
 
 Calma aí, deixa eu te mostrar mais alguns operadores aritméticos. 
